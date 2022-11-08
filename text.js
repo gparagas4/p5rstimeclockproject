@@ -14,7 +14,7 @@ function draw() {
     background(0);
     textWrap(WORD);
     Fill("red");
-    text("Time goes fast as the ", 40,100, width, height);
+    text("Time goes fast as the season rolls by, each day is a new beginning and its just starting", 40,100, width, height);
 
 }
 
