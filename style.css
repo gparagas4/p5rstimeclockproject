@@ -6,3 +6,16 @@ html, body {
 canvas {
   display: block;
 }
+div{
+  position:absolute;
+  top:100px;
+  left:100px 
+}
+
+.theSlider {
+  position:absolute;
+  top:40px;
+  left: 100px;
+  width:300px;
+  transform: rotate(20deg);
+}

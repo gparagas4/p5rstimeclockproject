@@ -13,11 +13,11 @@ function setup() {
 function draw() {
     background(0);
     textWrap(WORD);
-    Fill("red");
-    text("Clock is ticking, another semester rolling by. TIC TOK TIC TOK TIC TOK ", 40,100, width, height);
+    Fill("white"); 
+    text("Robert's New Day", 60,140, width, height);
 
 }
 
 function mouseClicked() {
-    console.log("go to sketch,js");
+    console.log("go to text.js");
 }
