@@ -1,7 +1,7 @@
 let font;
 
 function preload(){
-    font = loadFont("assests/Figerona-VF.ttf");
+    font = loadFont("assets/Figerona-VF.ttf");
 }
 
 function setup() {

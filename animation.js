@@ -16,3 +16,7 @@ function draw() {
 function mouseClicked(){
   removeElements();
 }
+
+if (SliderPosition > 90) {
+  console.log("go to end");
+}
