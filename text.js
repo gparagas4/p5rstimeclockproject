@@ -14,10 +14,10 @@ function draw() {
     background(0);
     textWrap(WORD);
     Fill("red");
-    text("Time is Money", 40,100, width, height);
+    text("Time goes fast as the ", 40,100, width, height);
 
-    function mouseClicked() {
-        console.log("go to clock");
-      }
+}
 
+function mouseClicked() {
+    console.log("go to animation.js");
 }

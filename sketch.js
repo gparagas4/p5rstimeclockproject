@@ -35,5 +35,5 @@ function draw() {
 }
 
 function mouseClicked() {
-  console.log("go to text");
+  console.log("go to text.js");
 }
