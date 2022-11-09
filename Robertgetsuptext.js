@@ -1,5 +1,3 @@
-//clock tick
-
 let font;
 
 function preload(){
@@ -15,11 +13,11 @@ function setup() {
 function draw() {
     background(0);
     textWrap(WORD);
-    Fill("red");
-    text("Clock is ticking, another semester rolling by. TIC TOK TIC TOK TIC TOK ", 40,100, width, height);
+    Fill("white"); 
+    text("As Robert tries to get up for the first college semester, he turns on the lights to start his day", 40,100, width, height);
 
 }
 
 function mouseClicked() {
-    console.log("go to sketch.js");
+    console.log("go to sliderlightanimation.js");
 }

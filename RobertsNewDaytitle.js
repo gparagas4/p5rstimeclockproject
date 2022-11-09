@@ -14,10 +14,10 @@ function draw() {
     background(0);
     textWrap(WORD);
     Fill("white"); 
-    text("As Robert tries to get up for the first college semester, he turns on the lights to start his day", 40,100, width, height);
+    text("Robert's New Day", 60,140, width, height);
 
 }
 
 function mouseClicked() {
-    console.log("go to animation.js");
+    console.log("go to clockticktoktext.js");
 }
