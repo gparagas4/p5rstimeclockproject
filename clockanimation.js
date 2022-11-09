@@ -35,4 +35,4 @@ function draw() {
     let hourAngle = map(hr % 12, 0, 12, 0, 360); 
     arc (0, 0, 1400, 1400, 0, hourAngle);
 } 
-{}
+
