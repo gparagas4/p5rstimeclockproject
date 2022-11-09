@@ -1,3 +1,5 @@
+//clock tick
+
 let font;
 
 function preload(){
@@ -19,5 +21,5 @@ function draw() {
 }
 
 function mouseClicked() {
-    console.log("go to sketch,js");
+    console.log("go to sketch.js");
 }
